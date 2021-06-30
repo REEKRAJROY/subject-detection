@@ -13,10 +13,10 @@ Detection of subject in motion from a video file using Open CV library in Python
 
 # Implementation:
 
-(1) Constructing argument parser<br>
-(2) Resizing the video file and converting to grayscale<br>
-(3) Gaussian blurring has been implemented to focus on the subject<br>
-(4) Absolute difference and thresholding has been used<br>
+(1) Constructing argument parser.<br>
+(2) Resizing the video file and converting to grayscale.<br>
+(3) Gaussian blurring has been implemented to focus on the subject.<br>
+(4) Absolute difference and thresholding has been used.<br>
 
 # References:
 [Open CV](https://pypi.org/project/opencv-python/) <br>
