@@ -1,4 +1,4 @@
-# subject-detection using Open CV 
+# subject-detection in video file using Open CV 
 
 Detection of subject in motion from a video file using Open CV library in Python.<br>
 
